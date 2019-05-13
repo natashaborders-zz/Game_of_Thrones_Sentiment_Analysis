@@ -1,0 +1,9 @@
+*.csv
+.DS_Store
+.ipynb_checkpoints
+*.zip
+*.xlsx
+.env
+*.pkl
+*.sqlite
+*.pptx
