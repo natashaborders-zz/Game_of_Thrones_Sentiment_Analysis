@@ -6,7 +6,6 @@
 .env
 *.pkl
 *.sqlite
-*.pptx
 info_file.py
 *.xls
 *.json
